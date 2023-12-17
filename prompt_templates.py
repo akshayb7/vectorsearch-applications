@@ -35,7 +35,6 @@ Answer:
 '''
 
 context_block = '''
-Show Summary: {summary}
 Show Guest: {guest}
 Transcript: {transcript}
 '''
